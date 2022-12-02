@@ -17,4 +17,4 @@ For example, let's say we have 2 SC, A and B, and A uses delegatecall to call B:
 
 ## How to prevent it
 
-👁️ TBD
+👁️ Use stateless libraries

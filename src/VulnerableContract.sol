@@ -2,9 +2,9 @@
 pragma solidity ^0.8.13;
 
 /*
-    HackMe is a contract that uses delegatecall to execute code.
-    It is not obvious that the owner of HackMe can be changed since there is no
-    function inside HackMe to do so. However an attacker can hijack the
+    VulnerableContract is a contract that uses delegatecall to execute code.
+    It is not obvious that the owner of VulnerableContract can be changed since there is no
+    function inside VulnerableContract to do so. However an attacker can hijack the
     contract by exploiting delegatecall. 
 */
 
